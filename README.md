@@ -11,4 +11,4 @@ This repository contains the code for the online course "Data Analysis with Pyth
 - <ins>Course Provider</ins>: IBM
 - <ins>Course Platform</ins>: Cognitive Class
 - <ins>Course Title</ins>: Data Analysis with Python
-- <ins>Course URL</ins>: https://cognitiveclass.ai/courses/python-for-data-science
+- <ins>Course URL</ins>: https://cognitiveclass.ai/courses/data-analysis-python
